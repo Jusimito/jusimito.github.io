@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Jusimito/jusimito.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Diego "Jusi" Sanchez
+## Hello there! Welcome to my personal page, here, you can learn more about me and my personal projects.
 
 ### Markdown
 
