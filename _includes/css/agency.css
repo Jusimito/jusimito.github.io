@@ -281,10 +281,14 @@ header {
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
+    float: left;
+    width: 50%;
 }
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
+    float: left;
+    width: 50%;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 22px;
     font-style: italic;
