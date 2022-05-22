@@ -1,15 +1,14 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Tale of Jade
+subtitle: Multiplatform game demo
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: 11-2020
+img: taleOfJade_inGame.png
+thumbnail: taleOfJade_portrait.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: November 2020
+category: Game Development
+description: Tale of Jade is a Metroidvania set in China, inspired by our own reinterpretation of the mythical age of the Three Kingdoms. Every skill is designed to interact with the rest, allowing the player to creatively overcome the different challenges that the game offers. To use these powers, the player will have to perform specific sequences of buttons assigned to them.
 
 ---
