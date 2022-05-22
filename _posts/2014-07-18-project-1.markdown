@@ -1,15 +1,13 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Little out of the planet
+subtitle: GMTK Jam 2020 Entry
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 12-07-2020
+img: outOfPlanet_inGame.png
+thumbnail: outOfPlanet_portrait.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+project-date: July 2020
+category: Game Development
+description: "Little out of the planet" is a small videogame created for the GMTK Jam 2020. You play on a strange planet which is terraforming itself very quickly and out of control.
 ---
