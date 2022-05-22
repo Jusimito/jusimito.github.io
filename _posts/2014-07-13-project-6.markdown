@@ -5,10 +5,9 @@ layout: default
 modal-id: 6
 date: 03-2018
 img: siaPortrait.jpg
-thumbnail: roundicons-thumbnail.png
+thumbnail: siaPortrait.jpg
 alt: image-alt
 project-date: March 2018
-client: Start Bootstrap
 category: Game Development
 description: S.I.A is a videogame that was developed at the 2018 Global Game Jam. In this resources management game, you are a public worker who have to decide which pieces of media are appropiate for mass consumption in a fascist country. With a bizarre sense of humor, you must take careful decisions to rally the support of the parts of society.
 
