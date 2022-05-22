@@ -1,15 +1,14 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Towersona
+subtitle: Global Game Jam 2019 Entry
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+date: 02-2019
+img: towersoma_inGame.png
+thumbnail: towersona_thumbnail.jpeg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: February 2019
+category: Game Development
+description: What's home? For us, home is love, taking care of someone. That's why we created a "Tamagochi Defense" game, where face waves of enemies with your pets, the Towersonas. Awarded for Best Technology at jam site.
 
 ---
