@@ -4,8 +4,8 @@ subtitle: Spain Game Devs Jam III Entry
 layout: default
 modal-id: 4
 date: 10-2021
-img: unionCroquetica_thumbnail.png
-thumbnail: unionCroquetica_inGame.png
+img: unionCroquetica_inGame.png
+thumbnail: unionCroquetica_thumbnail.png
 alt: image-alt
 project-date: October 2021
 category: Game Development

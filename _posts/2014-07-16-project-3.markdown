@@ -4,7 +4,7 @@ subtitle: Multiplatform game demo
 layout: default
 modal-id: 3
 date: 11-2020
-img: taleOfJade_inGame.png
+img: taleOfJade_inGame.jpg
 thumbnail: taleOfJade_portrait.png
 alt: image-alt
 project-date: November 2020
